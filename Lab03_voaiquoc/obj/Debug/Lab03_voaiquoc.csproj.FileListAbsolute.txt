@@ -1,0 +1,11 @@
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\bin\Debug\Lab03_voaiquoc.exe.config
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\bin\Debug\Lab03_voaiquoc.exe
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\bin\Debug\Lab03_voaiquoc.pdb
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.csproj.AssemblyReference.cache
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.frmSinhVien.resources
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.Properties.Resources.resources
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.csproj.GenerateResource.cache
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.csproj.CoreCompileInputs.cache
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.exe
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.pdb
+D:\Lập trình cơ sở dữ liệu\Lab03demo\Lab03_voaiquoc\Lab03_voaiquoc\obj\Debug\Lab03_voaiquoc.frmTuyChon.resources
