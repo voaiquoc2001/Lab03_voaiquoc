@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab03_voaiquoc.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab03_voaiquoc.QuanLySinhVien">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCCAAAAAAAAAggAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>QuanLySinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab03_voaiquoc.SinhVien">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAQAgAAAAAEAAgAAAAAAAAACAAAIAI=</HashCode>
+      <FileName>SinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab03_voaiquoc.frmSinhVien">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BdGUAAAmACLIQDCAMAiB4Az+gxEQAUwABLQGAoYgB4E=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab03_voaiquoc.frmTuyChon">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAACAAAAAAAACAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuyChon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="Lab03_voaiquoc.SoSanh">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>QuanLySinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
